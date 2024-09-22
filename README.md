@@ -13,42 +13,42 @@
   - Tuple: Ordered, immutable collections of items, like x = (1, 2, 3)
   - Dictionary: Key-value pairs, like x = {"name": "John", "age": 30}
   - Set: Unordered collections of unique items, like x = {1, 2, 3}
- - 
+   
 - User-Defined Data Types
- - Classes: Define custom classes using the class keyword
- - Objects: Create objects from classes using the () operator
+  - Classes: Define custom classes using the class keyword
+  - Objects: Create objects from classes using the () operator
 
 ##**Operators: The Magic Wands**
 
 - Arithmetic Operators: Perform mathematical magic!
- - `+` (addition)
- - `-` (subtraction)
- - `*` (multiplication)
- - `/` (division)
- - `%` (modulus)
- - `**` (exponentiation)
+  - `+` (addition)
+  - `-` (subtraction)
+  - `*` (multiplication)
+  - `/` (division)
+  - `%` (modulus)
+  - `**` (exponentiation)
   
 - Comparison Operators: Compare values with ease!
- - `==` (equal to)
- - `!=` (not equal to)
- - `>` (greater than)
- - `<` (less than)
- - `>=` (greater than or equal to)
- - `<=` (less than or equal to)
- - 
+  - `==` (equal to)
+  - `!=` (not equal to)
+  - `>` (greater than)
+  - `<` (less than)
+  - `>=` (greater than or equal to)
+  - `<=` (less than or equal to)
+ 
 - Logical Operators: Make logical decisions!
- - `and` (logical and)
- - `or` (logical or)
- - `not` (logical not)
+  - `and` (logical and)
+  - `or` (logical or)
+  - `not` (logical not)
 
 - Assignment Operators: Assign values with style!
- - `=` (assignment)
- - `+=` (addition assignment)
- - `-=` (subtraction assignment)
- - `*=` (multiplication assignment)
- - `/=` (division assignment)
- - `%=` (modulus assignment)
- - `**`= (exponentiation assignment)
+  - `=` (assignment)
+  - `+=` (addition assignment)
+  - `-=` (subtraction assignment)
+  - `*=` (multiplication assignment)
+  - `/=` (division assignment)
+  - `%=` (modulus assignment)
+  - `**`= (exponentiation assignment)
 
 ## **Control Structures: The Magic Paths: Make decisions with if-else statements!**
 
