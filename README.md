@@ -1,6 +1,8 @@
-# Python Documentation
+# **Python Documentation**
 
-## **Variables and Data Types**
+---
+
+## *Variables and Data Types*
 
 Built-in Data Types
  - Integers: int (e.g., x = 5)
@@ -86,4 +88,129 @@ fruits = ["apple", "banana", "cherry"]
 for fruit in fruits:
     print(fruit)
 
+```
+
+---
+
+# **Functions**
+Defining Functions
+  - Function Syntax:
+
+```cpp
+
+def greet(name):
+    print("Hello, " + name + "!")
+
+greet("John")  # Output: Hello, John!
+
+```
+
+  - Function Arguments:
+
+```cpp
+
+def add(x, y):
+    return x + y
+
+result = add(3, 5)
+print(result)  # Output: 8
+
+```
+
+Lambda Functions
+  - Lambda Syntax:
+
+```cpp
+
+add = lambda x, y: x + y
+result = add(3, 5)
+print(result)  # Output: 8
+
+```
+
+---
+
+# **Modules**
+
+Importing Modules
+ - Importing Built-in Modules:
+
+ ```cpp
+ 
+ import math
+print(math.pi)  # Output: 3.14159265359
+
+ ```
+ 
+   - Importing External Modules:
+ 
+```cpp
+
+import requests
+response = requests.get("https://www.example.com")
+print(response.status_code)  # Output: 200
+
+```
+
+  - Creating a Module:
+
+```cpp
+
+# mymodule.py
+def greet(name):
+    print("Hello, " + name + "!")
+
+# main.py
+import mymodule
+mymodule.greet("John")  # Output: Hello, John!
+
+```
+
+## **File Input/Output**
+
+---
+
+**Reading Files**
+
+  - Reading a Text File:
+  - 
+  ```cpp
+  
+  with open("example.txt", "r") as file:
+    content = file.read()
+    print(content)
+    
+ ```
+ 
+  - Reading a CSV File:
+
+```cpp
+
+import csv
+with open("example.csv", "r") as file:
+    reader = csv.reader(file)
+    for row in reader:
+        print(row) 
+        
+```
+
+  - Writing a Text File:
+
+```cpp
+
+with open("example.txt", "w") as file:
+    file.write("Hello, World!")
+    
+```
+
+  - Writing a CSV File:
+ 
+```cpp
+
+import csv
+with open("example.csv", "w", newline="") as file:
+    writer = csv.writer(file)
+    writer.writerow(["Name", "Age"])
+    writer.writerow(["John", 30])
+    
 ```
