@@ -50,6 +50,8 @@
   - `%=` (modulus assignment)
   - `**`= (exponentiation assignment)
 
+---
+
 ## **Control Structures: The Magic Paths: Make decisions with if-else statements!**
 
 **Conditional Statements**
