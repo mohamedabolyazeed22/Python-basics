@@ -5,14 +5,14 @@
 ## *Variables and Data Types: The Magic Ingredients*
 
 - Built-in Data Types
- - Integers: Whole numbers, like x = 5
- - Floats: Decimal numbers, like x = 3.14
- - Strings: Sequences of characters, like x = "hello"
- - Boolean: True or False values, like x = True
- - List: Ordered collections of items, like x = [1, 2, 3]
- - Tuple: Ordered, immutable collections of items, like x = (1, 2, 3)
- - Dictionary: Key-value pairs, like x = {"name": "John", "age": 30}
- - Set: Unordered collections of unique items, like x = {1, 2, 3}
+  - Integers: Whole numbers, like x = 5
+  - Floats: Decimal numbers, like x = 3.14
+  - Strings: Sequences of characters, like x = "hello"
+  - Boolean: True or False values, like x = True
+  - List: Ordered collections of items, like x = [1, 2, 3]
+  - Tuple: Ordered, immutable collections of items, like x = (1, 2, 3)
+  - Dictionary: Key-value pairs, like x = {"name": "John", "age": 30}
+  - Set: Unordered collections of unique items, like x = {1, 2, 3}
  - 
 - User-Defined Data Types
  - Classes: Define custom classes using the class keyword
