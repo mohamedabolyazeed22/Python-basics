@@ -171,9 +171,9 @@ mymodule.greet("John")  # Output: Hello, John!
 
 ```
 
-## **File Input/Output**
-
 ---
+
+## **File Input/Output**
 
 **Reading Files**
 
