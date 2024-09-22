@@ -4,7 +4,7 @@
 
 ## *Variables and Data Types*
 
-**Built-in Data Types**
+Built-in Data Types
  - Integers: int (e.g., x = 5)
  - Floats: float (e.g., x = 3.14)
  - Strings: str (e.g., x = "hello")
@@ -14,41 +14,41 @@
  - Dictionary: dict (e.g., x = {"name": "John", "age": 30})
  - Set: set (e.g., x = {1, 2, 3})
  - 
-**User-Defined Data Types**
+User-Defined Data Types
  - Classes: Define custom classes using the class keyword
  - Objects: Create objects from classes using the () operator
 
-## **Operators**
+##**Operators**
 
-**Arithmetic Operators**
- - + (addition)
- - - (subtraction)
- - * (multiplication)
- - / (division)
- - % (modulus)
- - ** (exponentiation)
+Arithmetic Operators
+ - `+` (addition)
+ - `-` (subtraction)
+ - `*` (multiplication)
+ - `/` (division)
+ - `%` (modulus)
+ - `**` (exponentiation)
   
-**Comparison Operators**
- - == (equal to)
- - != (not equal to)
- - > (greater than)
- - < (less than)
- - >= (greater than or equal to)
- - <= (less than or equal to)
+Comparison Operators
+ - `==` (equal to)
+ - `!=` (not equal to)
+ - `>` (greater than)
+ - `<` (less than)
+ - `>=` (greater than or equal to)
+ - `<=` (less than or equal to)
  - 
-**Logical Operators**
+Logical Operators
  - and (logical and)
  - or (logical or)
  - not (logical not)
 
-**Assignment Operators**
- - = (assignment)
- - += (addition assignment)
- - -= (subtraction assignment)
- - *= (multiplication assignment)
- - /= (division assignment)
- - %= (modulus assignment)
- - **= (exponentiation assignment)
+Assignment Operators
+ - `=` (assignment)
+ - `+=` (addition assignment)
+ - `-=` (subtraction assignment)
+ - `*=` (multiplication assignment)
+ - `/=` (division assignment)
+ - `%=` (modulus assignment)
+ - `**`= (exponentiation assignment)
 
 ## **Control Structures**
 
@@ -95,7 +95,6 @@ for fruit in fruits:
 ---
 
 # **Functions**
-
 **Defining Functions**
 
   - Function Syntax:
@@ -148,7 +147,7 @@ print(math.pi)  # Output: 3.14159265359
 
  ```
  
-  - Importing External Modules:
+   - Importing External Modules:
  
 ```cpp
 
